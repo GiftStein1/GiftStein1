@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Stein 👋
 
-<!--
-**GiftStein1/GiftStein1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building tools, game systems and web experiences.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Lua` · `Python` · `JavaScript` · `TypeScript` · `React`
+
+## Public projects
+
+- [gamesense-server-saver](https://github.com/GiftStein1/gamesense-server-saver) — save and connect to favorite servers across accounts.
+- [Password Generator](https://github.com/GiftStein1/Password-Generator) — a small Python and Tkinter project.
+
+---
+
+<sub>Based in Germany · Explore more in my [repositories](https://github.com/GiftStein1?tab=repositories).</sub>
